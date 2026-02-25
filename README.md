@@ -1,4 +1,7 @@
 # .github
-Assignment provided by Ryan Davis for students Dani Sleight and Jeremiah Stohel
+## Shell Script Description
+Assignment provided by Ryan Davis for students Dani Sleight and Jeremiah Stohel. This script provided by Ryan Davis.
 
-The result of the commands to be run should be an echo of 'System up and running as expected.'
+### How to Clone
+```bash
+bash script.sh
