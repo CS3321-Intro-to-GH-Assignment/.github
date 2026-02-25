@@ -4,4 +4,4 @@ Assignment provided by Ryan Davis for students Dani Sleight and Jeremiah Stohel.
 
 ### How to Clone
 ```bash
-bash script.sh
+bash repo_script-1.sh
