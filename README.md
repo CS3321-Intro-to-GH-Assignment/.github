@@ -1,2 +1,2 @@
 # .github
-Assignment Provided by Ryan Davis for students Dani Sleight and Jeremy Stohel
+Assignment provided by Ryan Davis for students Dani Sleight and Jeremy Stohel
